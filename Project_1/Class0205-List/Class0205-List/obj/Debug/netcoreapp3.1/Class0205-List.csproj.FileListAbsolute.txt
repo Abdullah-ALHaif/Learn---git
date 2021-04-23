@@ -1,0 +1,13 @@
+C:\Users\Abdullah\source\repos\Class0205-List\Class0205-List\bin\Debug\netcoreapp3.1\Class0205-List.exe
+C:\Users\Abdullah\source\repos\Class0205-List\Class0205-List\bin\Debug\netcoreapp3.1\Class0205-List.deps.json
+C:\Users\Abdullah\source\repos\Class0205-List\Class0205-List\bin\Debug\netcoreapp3.1\Class0205-List.runtimeconfig.json
+C:\Users\Abdullah\source\repos\Class0205-List\Class0205-List\bin\Debug\netcoreapp3.1\Class0205-List.runtimeconfig.dev.json
+C:\Users\Abdullah\source\repos\Class0205-List\Class0205-List\bin\Debug\netcoreapp3.1\Class0205-List.dll
+C:\Users\Abdullah\source\repos\Class0205-List\Class0205-List\bin\Debug\netcoreapp3.1\Class0205-List.pdb
+C:\Users\Abdullah\source\repos\Class0205-List\Class0205-List\obj\Debug\netcoreapp3.1\Class0205-List.csprojAssemblyReference.cache
+C:\Users\Abdullah\source\repos\Class0205-List\Class0205-List\obj\Debug\netcoreapp3.1\Class0205-List.AssemblyInfoInputs.cache
+C:\Users\Abdullah\source\repos\Class0205-List\Class0205-List\obj\Debug\netcoreapp3.1\Class0205-List.AssemblyInfo.cs
+C:\Users\Abdullah\source\repos\Class0205-List\Class0205-List\obj\Debug\netcoreapp3.1\Class0205-List.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\Class0205-List\Class0205-List\obj\Debug\netcoreapp3.1\Class0205-List.dll
+C:\Users\Abdullah\source\repos\Class0205-List\Class0205-List\obj\Debug\netcoreapp3.1\Class0205-List.pdb
+C:\Users\Abdullah\source\repos\Class0205-List\Class0205-List\obj\Debug\netcoreapp3.1\Class0205-List.genruntimeconfig.cache

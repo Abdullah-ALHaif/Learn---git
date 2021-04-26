@@ -1,0 +1,15 @@
+C:\Users\Abdullah\source\repos\GUI\GUI\bin\Debug\netcoreapp3.1\GUI.exe
+C:\Users\Abdullah\source\repos\GUI\GUI\bin\Debug\netcoreapp3.1\GUI.deps.json
+C:\Users\Abdullah\source\repos\GUI\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.json
+C:\Users\Abdullah\source\repos\GUI\GUI\bin\Debug\netcoreapp3.1\GUI.runtimeconfig.dev.json
+C:\Users\Abdullah\source\repos\GUI\GUI\bin\Debug\netcoreapp3.1\GUI.dll
+C:\Users\Abdullah\source\repos\GUI\GUI\bin\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\Abdullah\source\repos\GUI\GUI\obj\Debug\netcoreapp3.1\GUI.csprojAssemblyReference.cache
+C:\Users\Abdullah\source\repos\GUI\GUI\obj\Debug\netcoreapp3.1\GUI.Form1.resources
+C:\Users\Abdullah\source\repos\GUI\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.GenerateResource.cache
+C:\Users\Abdullah\source\repos\GUI\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfoInputs.cache
+C:\Users\Abdullah\source\repos\GUI\GUI\obj\Debug\netcoreapp3.1\GUI.AssemblyInfo.cs
+C:\Users\Abdullah\source\repos\GUI\GUI\obj\Debug\netcoreapp3.1\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\GUI\GUI\obj\Debug\netcoreapp3.1\GUI.dll
+C:\Users\Abdullah\source\repos\GUI\GUI\obj\Debug\netcoreapp3.1\GUI.pdb
+C:\Users\Abdullah\source\repos\GUI\GUI\obj\Debug\netcoreapp3.1\GUI.genruntimeconfig.cache
